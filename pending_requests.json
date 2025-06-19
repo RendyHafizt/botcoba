@@ -1,0 +1,40 @@
+{
+  "5258839069_1748172274": {
+    "user_id": 5258839069,
+    "username": "dazedprems0",
+    "first_name": "Daz",
+    "plan_type": "monthly",
+    "plan_id": "1_month",
+    "plan_name": "1 Month",
+    "price": 2500,
+    "duration": 30,
+    "request_date": "2025-05-25T16:54:34.880255",
+    "status": "approved",
+    "approved_date": "2025-05-25T16:54:52.835753"
+  },
+  "912473846_1750258019": {
+    "user_id": 912473846,
+    "username": "Hyr175",
+    "first_name": "\ud83c\udf37",
+    "plan_type": "monthly",
+    "plan_id": "12_months",
+    "plan_name": "12 Months",
+    "price": 80000,
+    "duration": 365,
+    "request_date": "2025-06-18T21:46:59.384983",
+    "status": "approved",
+    "approved_date": "2025-06-18T21:47:13.884818"
+  },
+  "6166029678_1750324005": {
+    "user_id": 6166029678,
+    "username": "moondic",
+    "first_name": "0xMoon",
+    "plan_type": "monthly",
+    "plan_id": "12_months",
+    "plan_name": "12 Months",
+    "price": 80000,
+    "duration": 365,
+    "request_date": "2025-06-19T16:06:45.224909",
+    "status": "pending"
+  }
+}
